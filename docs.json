@@ -17,8 +17,6 @@
             "group": "Get Started",
             "pages": [
               "introduction",
-              "quickstart",
-              "development"
             ]
           },
           {
@@ -31,7 +29,22 @@
               "agent/chatbot",
               "agent/best-practice"
             ]
+          },
+          {
+            "group": "Workflow",
+            "pages": [
+              "workflow/workflow",
+              "workflow/human-input-node",
+              "workflow/agent-node",
+              "workflow/loop-node",
+              "workflow/gate-node",
+              "workflow/router-node",
+              "workflow/executor-optimizer-node",
+              "workflow/orchestrator-worker-node",
+              "workflow/best-practice"
+            ]
           }
+
         ]
       },
       {
