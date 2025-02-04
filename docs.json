@@ -24,12 +24,12 @@
           {
             "group": "Agent",
             "pages": [
-              "agent/markdown",
-              "agent/code",
-              "agent/images",
-              "agent/settings",
-              "agent/navigation",
-              "agent/reusable-snippets"
+              "agent/agent",
+              "agent/knowledge-source",
+              "agent/brand-voice",
+              "agent/tool",
+              "agent/chatbot",
+              "agent/best-practice"
             ]
           }
         ]
