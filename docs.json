@@ -1,9 +1,9 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "MindPal",
   "colors": {
-    "primary": "#16A34A",
+    "primary": "#6466E9",
     "light": "#07C983",
     "dark": "#15803D"
   },
@@ -22,14 +22,14 @@
             ]
           },
           {
-            "group": "Essentials",
+            "group": "Agent",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
+              "agent/markdown",
+              "agent/code",
+              "agent/images",
+              "agent/settings",
+              "agent/navigation",
+              "agent/reusable-snippets"
             ]
           }
         ]
@@ -82,7 +82,7 @@
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "mailto:support@mindpal.io"
       }
     ],
     "primary": {
